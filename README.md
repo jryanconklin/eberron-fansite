@@ -34,6 +34,10 @@ For best results, please:
 
 * As an Authenticated User, I want to post to the Eberron forums to participate in a rich and vibrant fan community.
 
+## Current Bugs
+
+* The User Login and Account Information Does Not Show on Home Page.
+
 ## Authors
 J. Ryan Conklin
 
