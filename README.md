@@ -1,10 +1,10 @@
-# My Fun Eberron Fansite
-
+# House Cannith
+My Fun Eberron Blog and Forum
 
 ## Description
 A Drupal Website to Chat About Eberron! This site provides a method for the Site Owner to write original blog content as well as provide an online forum for fans of Eberron to discuss the campaign setting.
 
-<img src="/sites/default/files/screenshot.png" alt="a screenshot of this project">
+<img src="sites/screenshot.png" alt="a screenshot of this project">
 
 ## Technologies
 
