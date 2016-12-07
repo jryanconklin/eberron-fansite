@@ -1,0 +1,17 @@
+<?php
+
+function vital_statistics_menu() {
+    $items['vital_statistics'] = array(
+        'title' => 'Vital Statistics',
+        'page callback' => 'get_vitals',
+        'access callback' => TRUE,
+        'type' => MENU_NORMAL_ITEM,
+    );
+    return $items;
+}
+
+function get_vitals() {
+    $vitals['Strength'] = rand(4, 18);
+    return 'Your Stength is ' . $vitals['Strength'] . '!';
+    // return $vitals;
+}

@@ -1,0 +1,5 @@
+name = Vital Statistics
+description = A Quick Method to Determine D&D Ability Scores!
+package = D&D Tools
+core = 7.x
+files[] = vital_statistics.module
